@@ -1,0 +1,40 @@
+body {
+   background-image: url("13.jpg");
+}
+h{
+    text-align: center;
+font-size:90px;
+outline-color:red;
+}
+h1 {
+  color: red;
+  text-align: center;
+font-size:40px;
+}
+h2{
+color: red;
+text-align:center;
+font-size:33px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 16px;
+
+}
+form {margin:25px;}
+
+  h3{
+font-size:20px;
+text-align:center;
+}
+tabel{
+font-size:40px;
+}
+
+
+p1{
+font-size:20px;}
+p2{
+font-size:25px;
+}
